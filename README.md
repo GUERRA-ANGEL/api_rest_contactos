@@ -17,7 +17,7 @@ Para este ejemplo se utilizará el gestor de bases de datos [SQLite](https://sql
 
 ##3.2 Script
 
-´´´sql 
+```sql 
 CREATE TABLE ...
-´´´
+```
 
